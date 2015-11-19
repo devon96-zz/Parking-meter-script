@@ -1,0 +1,4 @@
+enableDebugConsole = 1;
+
+#include "gui.hpp"
+#include "cfgFunctions.hpp"
